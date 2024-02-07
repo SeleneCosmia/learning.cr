@@ -1,0 +1,12 @@
+name: kaomoji
+description: A command-line application to find kaomojis
+version: 0.1.0
+authors:
+  - Hebe Dite <hebe@selenocosmia.space>
+
+crystal: '>= 1.10.0'
+
+dependencies:
+  cling:
+    github: devnote-dev/cling
+    version: ">= 3.0.0"

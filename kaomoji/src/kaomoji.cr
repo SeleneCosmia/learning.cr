@@ -1,0 +1,1 @@
+require "./kaomoji/help.cr"
