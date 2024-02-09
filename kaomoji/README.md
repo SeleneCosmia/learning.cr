@@ -1,8 +1,8 @@
 # kaomoji-cli
 
-### A commandline kaomoji catalog written in  [crystal](https://github.com/crystal-lang/crystal)
+### A commandline kaomoji catalog written in   [crystal](https://github.com/crystal-lang/crystal) 
 ---
-Current Usage is limited to a help and version option parser as this project is under active development, stay tuned 🫡
+Current usage is limited to a help and version option parser as this project is under active development, stay tuned 🫡
 
 
 - TODO:

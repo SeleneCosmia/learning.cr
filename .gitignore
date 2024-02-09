@@ -1,6 +1,5 @@
-appdrawer/*
 */docs/
 */lib/
 */bin/
 */.shards/
-kaomoji-cli/*.dwarf
+*/*.dwarf
