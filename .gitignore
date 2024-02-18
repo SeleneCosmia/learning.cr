@@ -1,5 +1,11 @@
-*/docs/
-*/lib/
-*/bin/
-*/.shards/
-*/*.dwarf
+/moissanite/docs/
+/moissanite/lib/
+/moissanite/bin/
+/moissanite/.shards/
+/moissanite/*.dwarf
+
+/kaomoji/lib/
+/kaomoji/docs/
+/kaomoji/bin/
+/kaomoji/.shards/
+/kaomoji/*.dwarf
